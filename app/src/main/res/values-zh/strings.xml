@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">知乎</string>
+    <string name="close">返回</string>
+    <string name="login">登录</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="register">注册</string>
+    <string name="login_success">登录成功</string>
+    <string name="user_unknown">用户不存在</string>
+    <string name="password_error">密码错误或用户名错误</string>
+    <string name="register_succeeded">注册成功</string>
+    <string name="user_exist">用户已存在</string>
+    <string name="avatar_error">头像格式错误，请输入QQ号或图像url</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="avatar">头像</string>
+    <string name="enter_avatar">请输入QQ号或头像URL</string>
+    <string name="username_empty">用户名不能为空</string>
+    <string name="avatar_empty">头像不能为空</string>
+    <string name="password_empty">密码不能为空</string>
+    <string name="new_ask">新问题</string>
+    <string name="picture">图片</string>
+    <string name="publish">发布</string>
+    <string name="write_answer">写回答</string>
+    <string name="answer_exist">回答已存在</string>
+    <string name="publish_success">发布成功</string>
+    <string name="login_first">请先登录</string>
+    <string name="answer_empty">回答不能为空</string>
+    <string name="enter_question">输入问题并以问号结尾</string>
+    <string name="loading">加载中</string>
+    <string name="add_follow">关注</string>
+    <string name="followed">已关注</string>
+    <string name="empty">空空如也</string>
+</resources>

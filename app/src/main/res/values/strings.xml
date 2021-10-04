@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Zhihu</string>
+    <string name="close">Back</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="login_success">Login Success</string>
+    <string name="user_unknown">User Unknown</string>
+    <string name="password_error">Password Error or Username Error</string>
+    <string name="register_succeeded">Register Succeeded</string>
+    <string name="user_exist">User Exist</string>
+    <string name="avatar_error">Avatar Error!Enter QQ Num or Image URL</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="avatar">Avatar Image</string>
+    <string name="enter_avatar">QQ Num or Image URL</string>
+    <string name="username_empty">Username can not be empty</string>
+    <string name="avatar_empty">Avatar can not be empty</string>
+    <string name="password_empty">Password can not be empty</string>
+    <string name="new_ask">New Ask</string>
+    <string name="picture">Picture</string>
+    <string name="publish">Publish</string>
+    <string name="write_answer">Answer</string>
+    <string name="answer_exist">Answer Exist</string>
+    <string name="publish_success">Sucess</string>
+    <string name="login_first">Please login firstly</string>
+    <string name="answer_empty">Answer can not be empty</string>
+    <string name="enter_question">Enter your question and end with a ?</string>
+    <string name="loading">Loading</string>
+    <string name="add_follow">Follow</string>
+    <string name="followed">Followed</string>
+    <string name="empty">Empty</string>
+</resources>
